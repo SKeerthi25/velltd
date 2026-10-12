@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
 Sitemap: https://sharmilapainting.co.uk/sitemap.xml
+=======
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://selvamcctv.co.uk/sitemap.xml
+>>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423

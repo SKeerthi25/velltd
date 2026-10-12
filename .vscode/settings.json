@@ -1,3 +1,9 @@
 {
+<<<<<<< HEAD
   "css.lint.unknownAtRules": "ignore"
+=======
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "less.lint.unknownAtRules": "ignore"
+>>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423
 }
