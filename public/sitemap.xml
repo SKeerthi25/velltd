@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-<<<<<<< HEAD
     <loc>https://sharmilapainting.co.uk/</loc>
-=======
-    <loc>https://selvamcctv.co.uk</loc>
-    <lastmod>2026-10-12</lastmod>
->>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://sharmilapainting.co.uk/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -53,108 +47,20 @@
   </url>
   <url>
     <loc>https://sharmilapainting.co.uk/projects</loc>
-=======
-    <loc>https://selvamcctv.co.uk/about</loc>
-    <lastmod>2026-10-12</lastmod>
->>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://sharmilapainting.co.uk/before-after</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sharmilapainting.co.uk/process</loc>
-=======
-    <loc>https://selvamcctv.co.uk/services</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/cctv-packages</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/projects</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/areas-we-cover</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/testimonials</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/faq</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/blog</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/quote</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/contact</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/services/electrical-installation</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/services/cctv-installation</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/services/light-fittings</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/services/power-sockets</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/blog/how-to-choose-a-cctv-system-for-your-home</loc>
-    <lastmod>2026-10-12</lastmod>
->>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://sharmilapainting.co.uk/pricing-estimate</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -166,15 +72,10 @@
   </url>
   <url>
     <loc>https://sharmilapainting.co.uk/faqs</loc>
-=======
-    <loc>https://selvamcctv.co.uk/blog/signs-you-need-a-rewire</loc>
-    <lastmod>2026-10-12</lastmod>
->>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-<<<<<<< HEAD
     <loc>https://sharmilapainting.co.uk/areas-we-cover</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -203,29 +104,5 @@
     <loc>https://sharmilapainting.co.uk/terms-conditions</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
-=======
-    <loc>https://selvamcctv.co.uk/blog/are-led-lights-worth-it</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/privacy-policy</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/terms</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://selvamcctv.co.uk/cookie-policy</loc>
-    <lastmod>2026-10-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
->>>>>>> 5b15eb1e7514b7c5deac4087aabeeb1c62ee1423
   </url>
 </urlset>
